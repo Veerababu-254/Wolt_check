@@ -21,7 +21,7 @@ define([
         //Refactoring to SS2.1
         var record;
         var subListId = 'custpage_8859_batch_list_open';
-
+// comments
         //Payment Batch status
         var BATCH_OPEN = '1';
         var BATCH_UPDATING = '2';
