@@ -22,7 +22,7 @@ define([
         var record;
         var subListId = 'custpage_8859_batch_list_open';
 // comments are added in file to repo
-        //Payment Batch status
+        //Payment Batch status veerababu
         var BATCH_OPEN = '1';
         var BATCH_UPDATING = '2';
         var BATCH_PENDINGAPPROVAL = '3';
