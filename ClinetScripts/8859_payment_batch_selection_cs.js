@@ -22,12 +22,12 @@ define([
         var record;
         var subListId = 'custpage_8859_batch_list_open';
 // comments are added in file to repo
-        //Payment Batch status veerababu
+        //Payment Batch status testing purpose
         var BATCH_OPEN = '1';
         var BATCH_UPDATING = '2';
         var BATCH_PENDINGAPPROVAL = '3';
 
-        var REC_REF_NOTE = 'custrecord_2663_ref_note';
+        var REC_REF_NOTE = 'custrecord_2663ß_ref_note';
         var REC_STATUS = 'custrecord_2663_status';
         var REC_AGGREGATE = 'custrecord_2663_aggregate';
         var REC_APPROVAL_ROUTING = 'custrecord_ep_eft_approval_routing';
